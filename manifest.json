@@ -8,7 +8,7 @@
         "defs/S_START_COOLTIME_SERVANT_SKILL.1.def": "9531917dceb13a00862d2b07e6ff03865b8ba8888cecbdc7c8a5a7707da931ed",
         "defs/S_UPDATE_SERVANT_INFO.1.def": "355dac2b462cde6b2c00e6712ffdef4807013605d7b4e3d6b33fd12652f7ccd2",
         "index.js": "3ea160b5678d8f29ac7b4e0ecdb771957ea15981e6a5f5969e1fd2add567e8fe",
-        "module.json": "33e46abb428d90273794fcd990f0f8206dce3a4fc1590dc771202cbbfb2de8cf",
+        "module.json": "ae968c149a4f337d8665783ecf71542fe40428a90bbf7d066945718b0cf448f2",
         "settings_migrator.js": "ccfc035de244e7ec0e9b1c9b237b76a78a69e8419aba0a182c9a96838b7616ba"
     },
     "defs": {
