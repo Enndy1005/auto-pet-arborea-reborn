@@ -10,18 +10,5 @@
         "index.js": "3ea160b5678d8f29ac7b4e0ecdb771957ea15981e6a5f5969e1fd2add567e8fe",
         "module.json": "ae968c149a4f337d8665783ecf71542fe40428a90bbf7d066945718b0cf448f2",
         "settings_migrator.js": "ccfc035de244e7ec0e9b1c9b237b76a78a69e8419aba0a182c9a96838b7616ba"
-    },
-    "defs": {
-        "C_PLAYER_LOCATION": 5,
-        "C_REQUEST_SPAWN_SERVANT": [1,2],
-        "C_START_SERVANT_ACTIVE_SKILL": [1,2],
-        "C_USE_ITEM": 3,
-        "S_LOGIN": 14,
-        "S_REQUEST_DESPAWN_SERVANT": 1,
-        "S_REQUEST_SPAWN_SERVANT": 4,
-        "S_START_COOLTIME_SERVANT_SKILL": 1,
-        "S_UPDATE_SERVANT_INFO": 1,
-        "S_USER_CHANGE_NAME": 1,
-        "S_VISIT_NEW_SECTION": 1
-    }
+    }    
 }
