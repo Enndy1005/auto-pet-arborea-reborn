@@ -10,5 +10,5 @@
         "cliName": "Auto Pet",
         "guiName": "Auto Pet"
     },
-    "servers": ["https://raw.githubusercontent.com/tera-private-mods/auto-pet/master/"]
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/auto-pet/main/"]
 }
